@@ -1,2 +1,3 @@
-# Beginnings
-Parcticing working with GitHub
+# Welcome to my proyect !
+
+Hello world. 
